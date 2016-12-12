@@ -1,8 +1,9 @@
 {
   "name": "vee-cee-ellify",
+  "tags": ["browserify", "transform", "vcl"],
   "version": "0.1.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "WTFPL",
   "dependencies": {
     "ends-with": "^0.2.0",
     "insert-css": "^2.0.0",
