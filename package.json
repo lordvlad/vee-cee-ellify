@@ -1,0 +1,12 @@
+{
+  "name": "vee-cee-ellify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ends-with": "^0.2.0",
+    "insert-css": "^2.0.0",
+    "through2": "^2.0.3",
+    "vcl-preprocessor": "^0.1.1"
+  }
+}
