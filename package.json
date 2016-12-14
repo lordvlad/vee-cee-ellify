@@ -3,6 +3,10 @@
   "tags": ["browserify", "transform", "vcl"],
   "version": "0.1.0",
   "main": "index.js",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/lordvlad/vee-cee-ellify"
+  },
   "license": "WTFPL",
   "dependencies": {
     "ends-with": "^0.2.0",
